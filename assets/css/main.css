@@ -2671,3 +2671,17 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+
+@media (max-width: 460px) {
+ .img01{
+  display: none;
+ }
+ 
+}
+@media (min-width: 461px) {
+ .img02{
+  display: none;
+ }
+ 
+}
+
